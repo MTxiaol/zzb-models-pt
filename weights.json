@@ -1,0 +1,356 @@
+[
+    {
+        "Source":  "achigo0__valorant-ai",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\achigo0__valorant-ai\\my_yolo_model.pt",
+        "Name":  "my_yolo_model.pt",
+        "Size":  6255603
+    },
+    {
+        "Source":  "aleeeh07__r6-aimbot-ai-models",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\aleeeh07__r6-aimbot-ai-models\\precision_red.pt",
+        "Name":  "precision_red.pt",
+        "Size":  69705894
+    },
+    {
+        "Source":  "aleeeh07__r6-aimbot-ai-models",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\aleeeh07__r6-aimbot-ai-models\\precision_yellow.pt",
+        "Name":  "precision_yellow.pt",
+        "Size":  69705894
+    },
+    {
+        "Source":  "aleeeh07__r6-aimbot-ai-models",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\aleeeh07__r6-aimbot-ai-models\\standard_red.pt",
+        "Name":  "standard_red.pt",
+        "Size":  22310355
+    },
+    {
+        "Source":  "aleeeh07__r6-aimbot-ai-models",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\aleeeh07__r6-aimbot-ai-models\\standard_red_heavy.pt",
+        "Name":  "standard_red_heavy.pt",
+        "Size":  51752067
+    },
+    {
+        "Source":  "aleeeh07__r6-aimbot-ai-models",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\aleeeh07__r6-aimbot-ai-models\\standard_red_light.pt",
+        "Name":  "standard_red_light.pt",
+        "Size":  6070000
+    },
+    {
+        "Source":  "aleeeh07__r6-aimbot-ai-models",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\aleeeh07__r6-aimbot-ai-models\\standard_yellow.pt",
+        "Name":  "standard_yellow.pt",
+        "Size":  18906573
+    },
+    {
+        "Source":  "huggingface__keremberke__yolov5m-csgo",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\huggingface__keremberke__yolov5m-csgo\\keremberke_yolov5m-csgo_best.pt",
+        "Name":  "keremberke_yolov5m-csgo_best.pt",
+        "Size":  42234217
+    },
+    {
+        "Source":  "huggingface__keremberke__yolov5m-valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\huggingface__keremberke__yolov5m-valorant\\keremberke_yolov5m-valorant_best.pt",
+        "Name":  "keremberke_yolov5m-valorant_best.pt",
+        "Size":  42234217
+    },
+    {
+        "Source":  "huggingface__keremberke__yolov5n-csgo",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\huggingface__keremberke__yolov5n-csgo\\keremberke_yolov5n-csgo_best.pt",
+        "Name":  "keremberke_yolov5n-csgo_best.pt",
+        "Size":  3907133
+    },
+    {
+        "Source":  "huggingface__keremberke__yolov5n-valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\huggingface__keremberke__yolov5n-valorant\\keremberke_yolov5n-valorant_best.pt",
+        "Name":  "keremberke_yolov5n-valorant_best.pt",
+        "Size":  3907133
+    },
+    {
+        "Source":  "huggingface__keremberke__yolov5s-csgo",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\huggingface__keremberke__yolov5s-csgo\\keremberke_yolov5s-csgo_best.pt",
+        "Name":  "keremberke_yolov5s-csgo_best.pt",
+        "Size":  14447933
+    },
+    {
+        "Source":  "huggingface__keremberke__yolov5s-valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\huggingface__keremberke__yolov5s-valorant\\keremberke_yolov5s-valorant_best.pt",
+        "Name":  "keremberke_yolov5s-valorant_best.pt",
+        "Size":  14447997
+    },
+    {
+        "Source":  "huggingface__keremberke__yolov8m-csgo-player-detection",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\huggingface__keremberke__yolov8m-csgo-player-detection\\keremberke_yolov8m-csgo-player-detection_best.pt",
+        "Name":  "keremberke_yolov8m-csgo-player-detection_best.pt",
+        "Size":  52004960
+    },
+    {
+        "Source":  "huggingface__keremberke__yolov8m-valorant-detection",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\huggingface__keremberke__yolov8m-valorant-detection\\keremberke_yolov8m-valorant-detection_best.pt",
+        "Name":  "keremberke_yolov8m-valorant-detection_best.pt",
+        "Size":  52004960
+    },
+    {
+        "Source":  "huggingface__keremberke__yolov8n-csgo-player-detection",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\huggingface__keremberke__yolov8n-csgo-player-detection\\keremberke_yolov8n-csgo-player-detection_best.pt",
+        "Name":  "keremberke_yolov8n-csgo-player-detection_best.pt",
+        "Size":  6230456
+    },
+    {
+        "Source":  "huggingface__keremberke__yolov8n-valorant-detection",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\huggingface__keremberke__yolov8n-valorant-detection\\keremberke_yolov8n-valorant-detection_best.pt",
+        "Name":  "keremberke_yolov8n-valorant-detection_best.pt",
+        "Size":  6230456
+    },
+    {
+        "Source":  "huggingface__keremberke__yolov8s-csgo-player-detection",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\huggingface__keremberke__yolov8s-csgo-player-detection\\keremberke_yolov8s-csgo-player-detection_best.pt",
+        "Name":  "keremberke_yolov8s-csgo-player-detection_best.pt",
+        "Size":  22495352
+    },
+    {
+        "Source":  "huggingface__keremberke__yolov8s-valorant-detection",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\huggingface__keremberke__yolov8s-valorant-detection\\keremberke_yolov8s-valorant-detection_best.pt",
+        "Name":  "keremberke_yolov8s-valorant-detection_best.pt",
+        "Size":  22500600
+    },
+    {
+        "Source":  "Its3rr0rsWRLD__AI-Models",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Its3rr0rsWRLD__AI-Models\\Aimmy\\The Lost Front v0.4.5\\results\\weights\\best.pt",
+        "Name":  "best.pt",
+        "Size":  5464147
+    },
+    {
+        "Source":  "Its3rr0rsWRLD__AI-Models",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Its3rr0rsWRLD__AI-Models\\Aimmy\\The Lost Front v0.4.5\\results\\weights\\last.pt",
+        "Name":  "last.pt",
+        "Size":  5464147
+    },
+    {
+        "Source":  "krushnalshrirao__valorant_yolodetectionmodel",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\krushnalshrirao__valorant_yolodetectionmodel\\gcolabtrained.pt",
+        "Name":  "gcolabtrained.pt",
+        "Size":  3860968
+    },
+    {
+        "Source":  "krushnalshrirao__valorant_yolodetectionmodel",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\krushnalshrirao__valorant_yolodetectionmodel\\Results_Data\\unix_system\\weights\\last.pt",
+        "Name":  "last [krushnalshrirao-valorant_yolodetectionmodel].pt",
+        "Size":  3860968
+    },
+    {
+        "Source":  "krushnalshrirao__valorant_yolodetectionmodel",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\krushnalshrirao__valorant_yolodetectionmodel\\Results_Data\\windows_system\\weights\\best.pt",
+        "Name":  "best [krushnalshrirao-valorant_yolodetectionmodel].pt",
+        "Size":  3860776
+    },
+    {
+        "Source":  "krushnalshrirao__valorant_yolodetectionmodel",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\krushnalshrirao__valorant_yolodetectionmodel\\Results_Data\\windows_system\\weights\\last.pt",
+        "Name":  "last [krushnalshrirao-valorant_yolodetectionmodel].pt",
+        "Size":  3860776
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\YOLOv11\\nano\\v11n.pt",
+        "Name":  "v11n.pt",
+        "Size":  10787343
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\YOLOv11\\small\\v11s.pt",
+        "Name":  "v11s.pt",
+        "Size":  19191834
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\YOLOv11\\ver-2\\nano\\v11n-416-2.pt",
+        "Name":  "v11n-416-2.pt",
+        "Size":  5457370
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\YOLOv11\\ver-2\\nano\\v11n-512-1.pt",
+        "Name":  "v11n-512-1.pt",
+        "Size":  5465114
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5n\\valorant-n.pt",
+        "Name":  "valorant-n.pt",
+        "Size":  3920437
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5n\\valorant-n-2.pt",
+        "Name":  "valorant-n-2.pt",
+        "Size":  3920437
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5n\\valorant-n-3.pt",
+        "Name":  "valorant-n-3.pt",
+        "Size":  3920437
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\head\\valorant-01.pt",
+        "Name":  "valorant-01.pt",
+        "Size":  14317501
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\head\\valorant-02.pt",
+        "Name":  "valorant-02.pt",
+        "Size":  14291197
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\krunker.pt",
+        "Name":  "krunker.pt",
+        "Size":  14454389
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\valorant-1.pt",
+        "Name":  "valorant-1.pt",
+        "Size":  14454389
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\valorant-10.pt",
+        "Name":  "valorant-10.pt",
+        "Size":  14458741
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\valorant-11.engine",
+        "Name":  "valorant-11.engine",
+        "Size":  32431267
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\valorant-11.pt",
+        "Name":  "valorant-11.pt",
+        "Size":  14458741
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\valorant-12.pt",
+        "Name":  "valorant-12.pt",
+        "Size":  14316968
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\valorant-2.pt",
+        "Name":  "valorant-2.pt",
+        "Size":  14454389
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\valorant-3.pt",
+        "Name":  "valorant-3.pt",
+        "Size":  14454389
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\valorant-4.pt",
+        "Name":  "valorant-4.pt",
+        "Size":  14454389
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\valorant-5.pt",
+        "Name":  "valorant-5.pt",
+        "Size":  14454389
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\valorant-6.pt",
+        "Name":  "valorant-6.pt",
+        "Size":  14454389
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\valorant-7.pt",
+        "Name":  "valorant-7.pt",
+        "Size":  14454389
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\valorant-8.pt",
+        "Name":  "valorant-8.pt",
+        "Size":  14459765
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\valorant-9.pt",
+        "Name":  "valorant-9.pt",
+        "Size":  14459765
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov5\\YOLOv5s\\valorant-bot.pt",
+        "Name":  "valorant-bot.pt",
+        "Size":  14454389
+    },
+    {
+        "Source":  "Leaf48__YOLO-Models-For-Valorant",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Leaf48__YOLO-Models-For-Valorant\\Yolov7\\YOLOv7s\\valorant.pt",
+        "Name":  "valorant.pt",
+        "Size":  74822479
+    },
+    {
+        "Source":  "marvin69187__yolo_object_detector",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\marvin69187__yolo_object_detector\\best.pt",
+        "Name":  "best [marvin69187-yolo_object_detector].pt",
+        "Size":  5807347
+    },
+    {
+        "Source":  "shroomjaks__TF2-Aimmy",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\shroomjaks__TF2-Aimmy\\model_source\\runs\\detect\\tf2\\weights\\best.pt",
+        "Name":  "best [shroomjaks-TF2-Aimmy].pt",
+        "Size":  6227801
+    },
+    {
+        "Source":  "shroomjaks__TF2-Aimmy",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\shroomjaks__TF2-Aimmy\\model_source\\runs\\detect\\tf2\\weights\\last.pt",
+        "Name":  "last [shroomjaks-TF2-Aimmy].pt",
+        "Size":  6239705
+    },
+    {
+        "Source":  "shroomjaks__TF2-Aimmy",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\shroomjaks__TF2-Aimmy\\model_source\\yolov8n.pt",
+        "Name":  "yolov8n.pt",
+        "Size":  6534387
+    },
+    {
+        "Source":  "Siin0pe__cs2-ct-tero-detector",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Siin0pe__cs2-ct-tero-detector\\model.pt",
+        "Name":  "model.pt",
+        "Size":  19159315
+    },
+    {
+        "Source":  "Siin0pe__cs2-ct-tero-detector",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\Siin0pe__cs2-ct-tero-detector\\train\\weights\\last.pt",
+        "Name":  "last [Siin0pe-cs2-ct-tero-detector].pt",
+        "Size":  19159315
+    },
+    {
+        "Source":  "siromermer__CS2-CSGO-Yolov8-Yolov7-ObjectDetection",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\siromermer__CS2-CSGO-Yolov8-Yolov7-ObjectDetection\\model-results\\csgo_model1_25_epoch\\weights\\best.pt",
+        "Name":  "best [siromermer-CS2-CSGO-Yolov8-Yolov7-ObjectDetection].pt",
+        "Size":  6222947
+    },
+    {
+        "Source":  "siromermer__CS2-CSGO-Yolov8-Yolov7-ObjectDetection",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\siromermer__CS2-CSGO-Yolov8-Yolov7-ObjectDetection\\model-results\\csgo_model1_25_epoch\\weights\\last.pt",
+        "Name":  "last [siromermer-CS2-CSGO-Yolov8-Yolov7-ObjectDetection].pt",
+        "Size":  6222947
+    },
+    {
+        "Source":  "stalker99699__cs2-yolo-v26-player",
+        "From":  "D:\\SourceCode\\models-store\\_sources\\stalker99699__cs2-yolo-v26-player\\yolo-1417-cs-player.pt",
+        "Name":  "yolo-1417-cs-player.pt",
+        "Size":  5380741
+    }
+]
